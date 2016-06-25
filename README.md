@@ -14,7 +14,9 @@ With this information we can:
 
 ### How
 
-![](images/circuit_rough_scaled.jpg)
+![circuit](images/circuit_rough_scaled.jpg)
+
+![parts](images/parts_scaled.jpg)
 
 would love to use [this minimal approach](http://electronics.stackexchange.com/questions/131010/wheel-speed-from-shimano-dyamo-hub-using-arduino/160802#160802) ( only 2 1MOhm resistors needed ) for speed-sense - allhough I got warned by ansi that this might not work 
 
